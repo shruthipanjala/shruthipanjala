@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shruthipanjala
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently busy cleaning and playing with data 
 - 📫 How to reach me saishruthipanjala@gmail.com
 - 😄 Pronouns: She/ Her
 
